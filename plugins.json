@@ -82,6 +82,13 @@
       "src": "https://openenergytools.github.io/scl-bay-template/scl-bay-template.js"
     },
     {
+      "name": "LNode Mapping",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
+    },
+    {
       "name": "Substation",
       "icon": "margin",
       "active": true,
