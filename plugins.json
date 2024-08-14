@@ -58,7 +58,7 @@
       "icon": "add_box",
       "active": true,
       "requireDoc": true,
-      "src": "plugins/oscd-designer/oscd-designer.js"
+      "src": "https://jakobvogelsang.github.io/oscd-designer/oscd-designer.js"
     },
     {
       "name": "Template Generator",
@@ -80,6 +80,13 @@
       "active": true,
       "requireDoc": true,
       "src": "https://openenergytools.github.io/scl-bay-template/scl-bay-template.js"
+    },
+    {
+      "name": "LNode Mapping",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
     },
     {
       "name": "Substation",
