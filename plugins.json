@@ -48,7 +48,7 @@
       },
       "icon": "start",
       "active": true,
-      "src": "plugins/scl-editor-landing/scl-editor-landing.js"
+      "src": "https://openenergytools.github.io/scl-editor-landing/scl-editor-landing.js"
     },
     {
       "name": "SLD Designer",
