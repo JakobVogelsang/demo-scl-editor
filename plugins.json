@@ -89,6 +89,13 @@
       "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
     },
     {
+      "name": "Communication Mapping",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-communication-editor/scl-communication-editor.js"
+    },
+    {
       "name": "Substation",
       "icon": "margin",
       "active": true,
