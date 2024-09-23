@@ -38,6 +38,16 @@ editor.setAttribute(name, value);
 }
 </script>
 
+<script>
+  const openScd = document.querySelector("open-scd");
+  addEventListener("beforeunload", e => {
+    if (openScd && openScd.doc) {
+      e.preventDefault();
+      return e.returnValue = "Are you sure you want to exit?";
+    }
+  });
+</script>
+
 <style>
   html {
     width: 100%;
