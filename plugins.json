@@ -30,6 +30,15 @@
       "src": "plugins/scl-validating/scl-validating.js"
     },
     {
+      "name": "AutoGenCommMap",
+      "translations": {
+        "de": "Start"
+      },
+      "icon": "start",
+      "active": true,
+      "src": "https://openenergytools.github.io/scl-comm-map-generator/scl-comm-map-generator.js"
+    },
+    {
       "name": "Wizarding",
       "translation": {
         "de": "Wizarding"
