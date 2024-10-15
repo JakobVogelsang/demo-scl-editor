@@ -116,7 +116,7 @@
       "icon": "margin",
       "active": true,
       "requireDoc": true,
-      "src": "plugins/scl-communication-editor/scl-communication-editor.js"
+      "src": "https://openenergytools.github.io/scl-communication-editor/scl-communication-editor.js"
     }
   ]
 }
