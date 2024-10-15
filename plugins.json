@@ -110,6 +110,13 @@
       "active": true,
       "requireDoc": true,
       "src": "plugins/scl-substation-editor/scl-substation-editor.js"
+    },
+    {
+      "name": "Network Configuration",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-communication-editor/scl-communication-editor.js"
     }
   ]
 }
