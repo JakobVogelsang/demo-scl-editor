@@ -30,6 +30,15 @@
       "src": "plugins/scl-validating/scl-validating.js"
     },
     {
+      "name": "AutoGenCommMap",
+      "translations": {
+        "de": "Start"
+      },
+      "icon": "start",
+      "active": true,
+      "src": "https://openenergytools.github.io/scl-comm-map-generator/scl-comm-map-generator.js"
+    },
+    {
       "name": "Wizarding",
       "translation": {
         "de": "Wizarding"
@@ -89,6 +98,13 @@
       "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
     },
     {
+      "name": "Virtual IED",
+      "icon": "developer_board",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-virtual-ied-generator/scl-virtual-ied-generator.js"
+    },
+    {
       "name": "Communication Mapping",
       "icon": "margin",
       "active": true,
@@ -101,6 +117,13 @@
       "active": true,
       "requireDoc": true,
       "src": "plugins/scl-substation-editor/scl-substation-editor.js"
+    },
+    {
+      "name": "Network Configuration",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-communication/scl-communication.js"
     }
   ]
 }
