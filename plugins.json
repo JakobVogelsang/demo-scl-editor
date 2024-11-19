@@ -98,6 +98,13 @@
       "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
     },
     {
+      "name": "Virtual IED",
+      "icon": "developer_board",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-virtual-ied-generator/scl-virtual-ied-generator.js"
+    },
+    {
       "name": "Communication Mapping",
       "icon": "margin",
       "active": true,
