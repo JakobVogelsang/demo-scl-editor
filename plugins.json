@@ -1,0 +1,136 @@
+{
+  "menu": [
+    {
+      "name": "Open project",
+      "translation": {
+        "de": "Project öffnen"
+      },
+      "icon": "folder_open",
+      "active": true,
+      "src": "plugins/oscd-open/oscd-open.js"
+    },
+    {
+      "name": "Save project",
+      "translation": {
+        "de": "Projekt speichern"
+      },
+      "icon": "save",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/oscd-save/oscd-save.js"
+    },
+    {
+      "name": "Validating",
+      "translation": {
+        "de": "Validieren"
+      },
+      "icon": "rule_folder",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-validating/scl-validating.js"
+    },
+    {
+      "name": "AutoGenCommMap",
+      "translations": {
+        "de": "Start"
+      },
+      "icon": "start",
+      "active": true,
+      "src": "https://openenergytools.github.io/scl-comm-map-generator/scl-comm-map-generator.js"
+    },
+    {
+      "name": "Wizarding",
+      "translation": {
+        "de": "Wizarding"
+      },
+      "icon": "edit",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-wizarding/scl-wizarding.js"
+    }
+  ],
+  "editor": [
+    {
+      "name": "Start",
+      "translations": {
+        "de": "Start"
+      },
+      "icon": "start",
+      "active": true,
+      "src": "https://openenergytools.github.io/scl-editor-landing/scl-editor-landing.js"
+    },
+    {
+      "name": "SLD Designer",
+      "translations": {
+        "de": "SLD Designer"
+      },
+      "icon": "add_box",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://jakobvogelsang.github.io/oscd-designer/oscd-designer.js"
+    },
+    {
+      "name": "Template Generator",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/other-template-generator/oscd-template-generator.js"
+    },
+    {
+      "name": "Template Update",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-template-update/scl-template-update.js"
+    },
+    {
+      "name": "Template Editor",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-template/scl-template.js"
+    },
+    {
+      "name": "Bay Typical",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-bay-template/scl-bay-template.js"
+    },
+    {
+      "name": "LNode Mapping",
+      "icon": "copy_all",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://jakobvogelsang.github.io/process-icd-creator/process-icd-creator.js"
+    },
+    {
+      "name": "Virtual IED",
+      "icon": "developer_board",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-virtual-ied-generator/scl-virtual-ied-generator.js"
+    },
+    {
+      "name": "Communication Mapping",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-communication-editor/scl-communication-editor.js"
+    },
+    {
+      "name": "Substation",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "plugins/scl-substation-editor/scl-substation-editor.js"
+    },
+    {
+      "name": "Network Configuration",
+      "icon": "margin",
+      "active": true,
+      "requireDoc": true,
+      "src": "https://openenergytools.github.io/scl-communication/scl-communication.js"
+    }
+  ]
+}
