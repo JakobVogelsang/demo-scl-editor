@@ -1,7 +1,7 @@
 [submodule "open-scd-core"]
 	path = open-scd-core
 	url = https://www.github.com/openenergytools/open-scd-core
-	branch = gh-pages
+	branch = deploy
 [submodule "plugins/scl-editor-landing"]
 	path = plugins/scl-editor-landing
 	url = https://www.github.com/openenergytools/scl-editor-landing
@@ -20,8 +20,8 @@
 	branch = gh-pages
 [submodule "plugins/oscd-template-generator"]
 	path = plugins/oscd-template-generator
-	url = https://github.com/OpenEnergyTools/oscd-template-generator
-	branch = gh-pages
+	url = https://github.com/openscd/oscd-template-generator
+	branch = deploy
 [submodule "plugins/scl-substation-editor"]
 	path = plugins/scl-substation-editor
 	url = https://github.com/OpenEnergyTools/scl-substation-editor
@@ -38,3 +38,15 @@
 	path = plugins/oscd-designer
 	url = https://github.com/ca-d/oscd-designer
 	branch = gh-pages
+[submodule "plugins/other-template-generator"]
+	path = plugins/other-template-generator
+	url = https://github.com/openscd/oscd-template-generator
+	branch = deploy
+[submodule "plugins/scl-template-update"]
+	path = plugins/scl-template-update
+	url = https://github.com/openscd/scl-template-update/
+	branch = deploy
+[submodule "other-core"]
+	path = other-core
+	url = https://github.com/openenergytools/open-scd-core
+	branch = deploy
